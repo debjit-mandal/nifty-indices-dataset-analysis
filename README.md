@@ -6,7 +6,7 @@ This repository contains various Jupyter Notebooks analyzing NIFTY indices data.
 
 1. **Exploratory Data Analysis (EDA)**
    - Analyzes the underlying patterns, trends, and distributions in the NIFTY indices data.
-   - [EDA_NIFTY_Indices_Corrected.ipynb](link-to-notebook)
+   - [EDA_NIFTY_Indices.ipynb](link-to-notebook)
 
 2. **Time Series Forecasting with ARIMA**
    - Demonstrates time series forecasting using the ARIMA model on NIFTY indices data.
@@ -72,10 +72,10 @@ pip install jupyter
 ```
 1. Clone the repository:
    ```bash
-   git clone https://github.com/debjit-mandal/LLM-dataset-Analysis.git
+   git clone https://github.com/debjit-mandal/nifty-indices-dataset-analysis.git
 2. Navigate to the repository directory:
    ```bash
-    cd LLM-dataset-Analysis
+    cd nifty-indices-dataset-analysis
 3. Open the notebooks using Jupyter Notebook or Jupyter Lab:
    ```bash
     jupyter notebook
